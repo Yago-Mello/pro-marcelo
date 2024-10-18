@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fogo {
+    background-image: url(fire.gif);
+    background-size: cover;
+    background-position: center;
+    color: transparent;
+    background-clip: text;
+}
+
+h1{
+    font-weight: 900;
+    font-size: 60px;
+}
+
+h1:hover{
+    color: lightblue;
+}
